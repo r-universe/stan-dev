@@ -8,6 +8,11 @@
 	url = https://github.com/stan-dev/bayesplot
 	shallow = true
 	registered = true
+[submodule "loo"]
+	path = loo
+	url = https://github.com/stan-dev/loo
+	shallow = true
+	registered = true
 [submodule "posterior"]
 	path = posterior
 	url = https://github.com/stan-dev/posterior
