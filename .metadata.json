@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "loo",
-    "oncran": true
-  },
-  {
     "package": "posterior",
     "oncran": true
   },
