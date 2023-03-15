@@ -1,10 +1,6 @@
 [
   {
-    "package": "bayesplot",
-    "oncran": true
-  },
-  {
-    "package": "loo",
+    "package": "projpred",
     "oncran": true
   },
   {
@@ -12,11 +8,15 @@
     "oncran": true
   },
   {
-    "package": "projpred",
+    "package": "shinystan",
     "oncran": true
   },
   {
-    "package": "rstanarm",
+    "package": "loo",
+    "oncran": true
+  },
+  {
+    "package": "bayesplot",
     "oncran": true
   },
   {
@@ -24,7 +24,7 @@
     "oncran": true
   },
   {
-    "package": "shinystan",
+    "package": "rstanarm",
     "oncran": true
   }
 ]
