@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bayesplot"]
 	path = bayesplot
 	url = https://github.com/stan-dev/bayesplot
-	shallow = true
-	registered = true
 [submodule "loo"]
 	path = loo
 	url = https://github.com/stan-dev/loo
-	shallow = true
-	registered = true
 [submodule "posterior"]
 	path = posterior
 	url = https://github.com/stan-dev/posterior
-	shallow = true
-	registered = true
 [submodule "projpred"]
 	path = projpred
 	url = https://github.com/stan-dev/projpred
-	shallow = true
-	registered = true
 [submodule "rstanarm"]
 	path = rstanarm
 	url = https://github.com/stan-dev/rstanarm
-	shallow = true
-	registered = true
 [submodule "rstantools"]
 	path = rstantools
 	url = https://github.com/stan-dev/rstantools
-	shallow = true
-	registered = true
 [submodule "shinystan"]
 	path = shinystan
 	url = https://github.com/stan-dev/shinystan
-	shallow = true
-	registered = true
