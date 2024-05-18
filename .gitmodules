@@ -10,7 +10,7 @@
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
-	branch = release
+	branch = v0.8.0
 [submodule "rstan"]
 	path = rstan
 	url = https://github.com/stan-dev/rstan
