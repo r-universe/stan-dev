@@ -1,25 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/stan-dev/stan-dev.r-universe.dev
 	branch = HEAD
-[submodule "bayesplot"]
-	path = bayesplot
-	url = https://github.com/stan-dev/bayesplot
-[submodule "loo"]
-	path = loo
-	url = https://github.com/stan-dev/loo
-[submodule "posterior"]
-	path = posterior
-	url = https://github.com/stan-dev/posterior
-[submodule "projpred"]
-	path = projpred
-	url = https://github.com/stan-dev/projpred
-[submodule "rstanarm"]
-	path = rstanarm
-	url = https://github.com/stan-dev/rstanarm
-[submodule "rstantools"]
-	path = rstantools
-	url = https://github.com/stan-dev/rstantools
-[submodule "shinystan"]
-	path = shinystan
-	url = https://github.com/stan-dev/shinystan
+[submodule "cmdstanr"]
+	path = cmdstanr
+	url = https://github.com/stan-dev/cmdstanr
+	branch = release
