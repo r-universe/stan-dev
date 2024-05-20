@@ -1,0 +1,10 @@
+{
+  "id": 50926092,
+  "created_at": "2024-05-19T18:45:10.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["rstan", "rstanarm", "shinystan", "loo", "bayesplot", "projpred", "rstantools", "posterior", "cmdstanr", "posteriordb-r", "stanio", "stan-dev.r-universe.dev"]
+}
