@@ -34,7 +34,7 @@
 [submodule "rstanarm"]
 	path = rstanarm
 	url = https://github.com/stan-dev/rstanarm
-	branch = feature/survival
+	branch = survival-rstantools
 [submodule "rstantools"]
 	path = rstantools
 	url = https://github.com/stan-dev/rstantools
