@@ -20,8 +20,8 @@
 [submodule "posterior"]
 	path = posterior
 	url = https://github.com/stan-dev/posterior
-[submodule "posteriordb-r"]
-	path = posteriordb-r
+[submodule "posteriordb"]
+	path = posteriordb
 	url = https://github.com/stan-dev/posteriordb-r
 [submodule "projpred"]
 	path = projpred
