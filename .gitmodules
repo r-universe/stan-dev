@@ -16,3 +16,7 @@
 	url = https://github.com/stan-dev/rstan
 	branch = experimental
 	subdir = rstan/rstan
+[submodule "rstanarm"]
+	path = rstanarm
+	url = https://github.com/stan-dev/rstanarm
+	branch = feature/survival
