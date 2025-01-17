@@ -5,7 +5,7 @@
 [submodule "StanHeaders"]
 	path = StanHeaders
 	url = https://github.com/stan-dev/rstan
-	branch = experimental
+	branch = develop
 	subdir = StanHeaders
 [submodule "bayesplot"]
 	path = bayesplot
@@ -29,7 +29,7 @@
 [submodule "rstan"]
 	path = rstan
 	url = https://github.com/stan-dev/rstan
-	branch = experimental
+	branch = develop
 	subdir = rstan/rstan
 [submodule "rstanarm"]
 	path = rstanarm
